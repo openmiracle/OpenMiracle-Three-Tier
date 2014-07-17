@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSalaryPackageReport" targetNamespace="http://tempuri.org/dsSalaryPackageReport.xsd" xmlns:mstns="http://tempuri.org/dsSalaryPackageReport.xsd" xmlns="http://tempuri.org/dsSalaryPackageReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSalaryPackageReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsSalaryPackageReport" msprop:Generator_UserDSName="dsSalaryPackageReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtblCompany" msprop:Generator_TableClassName="dtblCompanyDataTable" msprop:Generator_TableVarName="tabledtblCompany" msprop:Generator_TablePropName="dtblCompany" msprop:Generator_RowDeletingName="dtblCompanyRowDeleting" msprop:Generator_UserTableName="dtblCompany" msprop:Generator_RowChangingName="dtblCompanyRowChanging" msprop:Generator_RowEvHandlerName="dtblCompanyRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblCompanyRowDeleted" msprop:Generator_RowEvArgName="dtblCompanyRowChangeEvent" msprop:Generator_RowChangedName="dtblCompanyRowChanged" msprop:Generator_RowClassName="dtblCompanyRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="companyName" msprop:Generator_ColumnVarNameInTable="columncompanyName" msprop:Generator_ColumnPropNameInRow="companyName" msprop:Generator_ColumnPropNameInTable="companyNameColumn" msprop:Generator_UserColumnName="companyName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone" type="xs:string" minOccurs="0" />
+              <xs:element name="emailId" msprop:Generator_ColumnVarNameInTable="columnemailId" msprop:Generator_ColumnPropNameInRow="emailId" msprop:Generator_ColumnPropNameInTable="emailIdColumn" msprop:Generator_UserColumnName="emailId" type="xs:string" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblSalaryPackageReport" msprop:Generator_TableClassName="dtblSalaryPackageReportDataTable" msprop:Generator_TableVarName="tabledtblSalaryPackageReport" msprop:Generator_TablePropName="dtblSalaryPackageReport" msprop:Generator_RowDeletingName="dtblSalaryPackageReportRowDeleting" msprop:Generator_UserTableName="dtblSalaryPackageReport" msprop:Generator_RowChangingName="dtblSalaryPackageReportRowChanging" msprop:Generator_RowEvHandlerName="dtblSalaryPackageReportRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblSalaryPackageReportRowDeleted" msprop:Generator_RowEvArgName="dtblSalaryPackageReportRowChangeEvent" msprop:Generator_RowChangedName="dtblSalaryPackageReportRowChanged" msprop:Generator_RowClassName="dtblSalaryPackageReportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="salaryPackageName" msprop:Generator_ColumnVarNameInTable="columnsalaryPackageName" msprop:Generator_ColumnPropNameInRow="salaryPackageName" msprop:Generator_ColumnPropNameInTable="salaryPackageNameColumn" msprop:Generator_UserColumnName="salaryPackageName" type="xs:string" minOccurs="0" />
+              <xs:element name="isActive" msprop:Generator_ColumnVarNameInTable="columnisActive" msprop:Generator_ColumnPropNameInRow="isActive" msprop:Generator_ColumnPropNameInTable="isActiveColumn" msprop:Generator_UserColumnName="isActive" type="xs:string" minOccurs="0" />
+              <xs:element name="totalAmount" msprop:Generator_ColumnVarNameInTable="columntotalAmount" msprop:Generator_ColumnPropNameInRow="totalAmount" msprop:Generator_ColumnPropNameInTable="totalAmountColumn" msprop:Generator_UserColumnName="totalAmount" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

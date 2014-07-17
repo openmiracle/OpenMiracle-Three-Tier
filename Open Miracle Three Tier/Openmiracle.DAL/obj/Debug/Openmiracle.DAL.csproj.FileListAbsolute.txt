@@ -1,0 +1,24 @@
+E:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\Openmiracle.DAL.dll
+E:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\Openmiracle.DAL.pdb
+E:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\ENTITY.dll
+E:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\Printer_Settings.exe
+E:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\ENTITY.pdb
+E:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\Openmiracle.DAL.dll
+E:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\Openmiracle.DAL.pdb
+D:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\Openmiracle.DAL.dll
+D:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\Openmiracle.DAL.pdb
+D:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\ENTITY.dll
+D:\Open Miracle Three Tier\Openmiracle.DAL\bin\Debug\ENTITY.pdb
+D:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\Openmiracle.DAL.dll
+D:\Open Miracle Three Tier\Openmiracle.DAL\obj\Debug\Openmiracle.DAL.pdb
+D:\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\Printer_Settings.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\OpenMiracle.DAL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\OpenMiracle.DAL.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\ENTITY.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\Printer_Settings.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\bin\Debug\ENTITY.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\obj\Debug\OpenMiracle.DAL.csprojResolveAssemblyReference.cache
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\obj\Debug\OpenMiracle.DAL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.DAL\obj\Debug\OpenMiracle.DAL.pdb

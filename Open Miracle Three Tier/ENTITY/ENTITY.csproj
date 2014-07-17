@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{703712EC-5511-415F-BAED-47C121A6EC4C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ENTITY</RootNamespace>
+    <AssemblyName>ENTITY</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountGroupInfo.cs" />
+    <Compile Include="AccountLedgerInfo.cs" />
+    <Compile Include="AdditionalCostInfo.cs" />
+    <Compile Include="AdvancePaymentInfo.cs" />
+    <Compile Include="AreaInfo.cs" />
+    <Compile Include="BankReconciliationInfo.cs" />
+    <Compile Include="BarcodeSettingsInfo.cs" />
+    <Compile Include="BatchInfo.cs" />
+    <Compile Include="BomInfo.cs" />
+    <Compile Include="BonusDedutionInfo.cs" />
+    <Compile Include="BrandInfo.cs" />
+    <Compile Include="BudgetDetailsInfo.cs" />
+    <Compile Include="BudgetMasterInfo.cs" />
+    <Compile Include="CompanyInfo.cs" />
+    <Compile Include="CompanyPathInfo.cs" />
+    <Compile Include="ContraDetailsInfo.cs" />
+    <Compile Include="ContraMasterInfo.cs" />
+    <Compile Include="CounterInfo.cs" />
+    <Compile Include="CreditNoteDetailsInfo.cs" />
+    <Compile Include="CreditNoteMasterInfo.cs" />
+    <Compile Include="CurrencyInfo.cs" />
+    <Compile Include="DailyAttendanceDetailsInfo.cs" />
+    <Compile Include="DailyAttendanceMasterInfo.cs" />
+    <Compile Include="DailySalaryVoucherDetailsInfo.cs" />
+    <Compile Include="DailySalaryVoucherMasterInfo.cs" />
+    <Compile Include="DebitNoteDetailsInfo.cs" />
+    <Compile Include="DebitNoteMasterInfo.cs" />
+    <Compile Include="DeliveryNoteDetailsInfo.cs" />
+    <Compile Include="DeliveryNoteMasterInfo.cs" />
+    <Compile Include="DesignationInfo.cs" />
+    <Compile Include="EmployeeInfo.cs" />
+    <Compile Include="ExchangeRateInfo.cs" />
+    <Compile Include="FinancialYearInfo.cs" />
+    <Compile Include="GodownInfo.cs" />
+    <Compile Include="HolidayInfo.cs" />
+    <Compile Include="JournalDetailsInfo.cs" />
+    <Compile Include="JournalMasterInfo.cs" />
+    <Compile Include="LedgerPostingInfo.cs" />
+    <Compile Include="MaterialReceiptDetailsInfo.cs" />
+    <Compile Include="MaterialReceiptMasterInfo.cs" />
+    <Compile Include="ModelNoInfo.cs" />
+    <Compile Include="MonthlySalaryDetailsInfo.cs" />
+    <Compile Include="MonthlySalaryInfo.cs" />
+    <Compile Include="PartyBalanceInfo.cs" />
+    <Compile Include="PayHeadInfo.cs" />
+    <Compile Include="PaymentDetailsInfo.cs" />
+    <Compile Include="PaymentMasterInfo.cs" />
+    <Compile Include="PDCClearanceMasterInfo.cs" />
+    <Compile Include="PDCPayableMasterInfo.cs" />
+    <Compile Include="PDCReceivableMasterInfo.cs" />
+    <Compile Include="PhysicalStockDetailsInfo.cs" />
+    <Compile Include="PhysicalStockMasterInfo.cs" />
+    <Compile Include="PriceListInfo.cs" />
+    <Compile Include="PricingLevelInfo.cs" />
+    <Compile Include="PrivilegeInfo.cs" />
+    <Compile Include="ProductBatchInfo.cs" />
+    <Compile Include="ProductGroupInfo.cs" />
+    <Compile Include="ProductInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicVariables.cs" />
+    <Compile Include="PurchaseBillTaxInfo.cs" />
+    <Compile Include="PurchaseDetailsInfo.cs" />
+    <Compile Include="PurchaseMasterInfo.cs" />
+    <Compile Include="PurchaseOrderDetailsInfo.cs" />
+    <Compile Include="PurchaseOrderMasterInfo.cs" />
+    <Compile Include="PurchaseReturnBilltaxInfo.cs" />
+    <Compile Include="PurchaseReturnDetailsInfo.cs" />
+    <Compile Include="PurchaseReturnMasterInfo.cs" />
+    <Compile Include="QuickLaunchItemsInfo.cs" />
+    <Compile Include="RackInfo.cs" />
+    <Compile Include="ReceiptDetailsInfo.cs" />
+    <Compile Include="ReceiptMasterInfo.cs" />
+    <Compile Include="RejectionInDetailsInfo.cs" />
+    <Compile Include="RejectionInMasterInfo.cs" />
+    <Compile Include="RejectionOutDetailsInfo.cs" />
+    <Compile Include="RejectionOutMasterInfo.cs" />
+    <Compile Include="ReminderInfo.cs" />
+    <Compile Include="RoleInfo.cs" />
+    <Compile Include="RouteInfo.cs" />
+    <Compile Include="SalaryPackageDetailsInfo.cs" />
+    <Compile Include="SalaryPackageInfo.cs" />
+    <Compile Include="SalaryVoucherDetailsInfo.cs" />
+    <Compile Include="SalaryVoucherMasterInfo.cs" />
+    <Compile Include="SalesBillTaxInfo.cs" />
+    <Compile Include="SalesDetailsInfo.cs" />
+    <Compile Include="SalesMasterInfo.cs" />
+    <Compile Include="SalesOrderDetailsInfo.cs" />
+    <Compile Include="SalesOrderMasterInfo.cs" />
+    <Compile Include="SalesQuotationDetailsInfo.cs" />
+    <Compile Include="SalesQuotationMasterInfo.cs" />
+    <Compile Include="SalesReturnBillTaxInfo.cs" />
+    <Compile Include="SalesReturnDetailsInfo.cs" />
+    <Compile Include="SalesReturnMasterInfo.cs" />
+    <Compile Include="ServiceCategoryInfo.cs" />
+    <Compile Include="ServiceDetailsInfo.cs" />
+    <Compile Include="ServiceInfo.cs" />
+    <Compile Include="ServiceMasterInfo.cs" />
+    <Compile Include="SettingsInfo.cs" />
+    <Compile Include="SizeInfo.cs" />
+    <Compile Include="StandardRateInfo.cs" />
+    <Compile Include="StockJournalDetailsInfo.cs" />
+    <Compile Include="StockJournalMasterInfo.cs" />
+    <Compile Include="StockPostingInfo.cs" />
+    <Compile Include="SuffixPrefixInfo.cs" />
+    <Compile Include="TaxDetailsInfo.cs" />
+    <Compile Include="TaxInfo.cs" />
+    <Compile Include="UnitConvertionInfo.cs" />
+    <Compile Include="UnitInfo.cs" />
+    <Compile Include="UserInfo.cs" />
+    <Compile Include="VoucherTypeInfo.cs" />
+    <Compile Include="VoucherTypeTaxInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3375BDC1-E073-4321-9A78-BF62276CDC30}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpenMiracle.BLL</RootNamespace>
+    <AssemblyName>OpenMiracle.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountGroupBll.cs" />
+    <Compile Include="AccountLedgerBll.cs" />
+    <Compile Include="AdvancePaymentBll.cs" />
+    <Compile Include="AreaBll.cs" />
+    <Compile Include="AttendanceBll.cs" />
+    <Compile Include="AditionalCostBll.cs" />
+    <Compile Include="BackUpRestoreBll.cs" />
+    <Compile Include="BankReconciliationBll.cs" />
+    <Compile Include="BarcodeSettingsBll.cs" />
+    <Compile Include="BatchBll.cs" />
+    <Compile Include="BonusDeductionBll.cs" />
+    <Compile Include="BrandBll.cs" />
+    <Compile Include="BudgetBll.cs" />
+    <Compile Include="CompanyCreationBll.cs" />
+    <Compile Include="CompanyPathBll.cs" />
+    <Compile Include="ContraVoucherDetailsBll.cs" />
+    <Compile Include="CounterBll.cs" />
+    <Compile Include="CreditNoteBll.cs" />
+    <Compile Include="CurrencyBll.cs" />
+    <Compile Include="DailySalaryVoucherBll.cs" />
+    <Compile Include="DebitNoteBll.cs" />
+    <Compile Include="DeliveryNoteBll.cs" />
+    <Compile Include="DesiginationBll.cs" />
+    <Compile Include="EmployeeCreationBll.cs" />
+    <Compile Include="ExchangeRateBll.cs" />
+    <Compile Include="FinancialStatementBll.cs" />
+    <Compile Include="FinancialYearBll.cs" />
+    <Compile Include="GodownBll.cs" />
+    <Compile Include="HolidaySettingsBll.cs" />
+    <Compile Include="JournalVoucherBll.cs" />
+    <Compile Include="LedgerPostingBll.cs" />
+    <Compile Include="MastersBll.cs" />
+    <Compile Include="MaterialReceiptBll.cs" />
+    <Compile Include="ModelNoBll.cs" />
+    <Compile Include="MonthlySalaryVoucherBll.cs" />
+    <Compile Include="PartyBalanceBll.cs" />
+    <Compile Include="PayHeadBll.cs" />
+    <Compile Include="PaymentVoucherBll.cs" />
+    <Compile Include="PDCClearanceBll.cs" />
+    <Compile Include="PDCPayableBll.cs" />
+    <Compile Include="PDCRecivebleBll.cs" />
+    <Compile Include="PhysicalStockBll.cs" />
+    <Compile Include="PriceListBll.cs" />
+    <Compile Include="PriceListPopupBll.cs" />
+    <Compile Include="PricingLevelBll.cs" />
+    <Compile Include="PrivilegeBll.cs" />
+    <Compile Include="ProductBomBll.cs" />
+    <Compile Include="ProductCreationBll.cs" />
+    <Compile Include="ProductGroupBll.cs" />
+    <Compile Include="ProfitAndLossBll.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseInvoiceBll.cs" />
+    <Compile Include="PurchaseOrderBll.cs" />
+    <Compile Include="PurchaseReturnBll.cs" />
+    <Compile Include="QuickLaunchItemsBll.cs" />
+    <Compile Include="RackBll.cs" />
+    <Compile Include="RecieptVoucherBll.cs" />
+    <Compile Include="RejectionInBll.cs" />
+    <Compile Include="RejectionOutBll.cs" />
+    <Compile Include="RemainderBll.cs" />
+    <Compile Include="RoleBll.cs" />
+    <Compile Include="RouteBll.cs" />
+    <Compile Include="SalaryPackageCreationBll.cs" />
+    <Compile Include="SalaryVoucherBll.cs" />
+    <Compile Include="SalesInvoiceBll.cs" />
+    <Compile Include="SalesOrderBll.cs" />
+    <Compile Include="SalesQuotationBll.cs" />
+    <Compile Include="SalesReturnBll.cs" />
+    <Compile Include="ServiceCategoryBll.cs" />
+    <Compile Include="ServicesBll.cs" />
+    <Compile Include="SettingsBll.cs" />
+    <Compile Include="SizeBll.cs" />
+    <Compile Include="standardRateBll.cs" />
+    <Compile Include="StockJournalBll.cs" />
+    <Compile Include="StockPostingBll.cs" />
+    <Compile Include="SuffixPrefixSettingsBll.cs" />
+    <Compile Include="TaxBll.cs" />
+    <Compile Include="TransactionsGeneralFillBll.cs" />
+    <Compile Include="UnitBll.cs" />
+    <Compile Include="UnitConvertionBll.cs" />
+    <Compile Include="UserBll.cs" />
+    <Compile Include="VoucherTypeBll.cs" />
+    <Compile Include="VoucherTypeTaxBll.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{703712EC-5511-415F-BAED-47C121A6EC4C}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OpenMiracle.DAL\OpenMiracle.DAL.csproj">
+      <Project>{8F35B106-F82C-45DA-AE7C-D8A2C0C23C29}</Project>
+      <Name>OpenMiracle.DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

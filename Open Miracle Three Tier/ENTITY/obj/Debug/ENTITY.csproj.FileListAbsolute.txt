@@ -1,0 +1,14 @@
+E:\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.dll
+E:\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.pdb
+E:\Open Miracle Three Tier\ENTITY\obj\Debug\ResolveAssemblyReference.cache
+E:\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.dll
+E:\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.pdb
+D:\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.dll
+D:\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.pdb
+D:\Open Miracle Three Tier\ENTITY\obj\Debug\ResolveAssemblyReference.cache
+D:\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.dll
+D:\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\ENTITY\bin\Debug\ENTITY.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\ENTITY\obj\Debug\ENTITY.pdb

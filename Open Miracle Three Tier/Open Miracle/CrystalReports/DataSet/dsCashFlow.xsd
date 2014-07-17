@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsCashFlow" targetNamespace="http://tempuri.org/dsCashFlow.xsd" xmlns:mstns="http://tempuri.org/dsCashFlow.xsd" xmlns="http://tempuri.org/dsCashFlow.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsCashFlow" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsCashFlow" msprop:Generator_UserDSName="dsCashFlow">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtblCashflow" msprop:Generator_TableClassName="dtblCashflowDataTable" msprop:Generator_TableVarName="tabledtblCashflow" msprop:Generator_TablePropName="dtblCashflow" msprop:Generator_RowDeletingName="dtblCashflowRowDeleting" msprop:Generator_UserTableName="dtblCashflow" msprop:Generator_RowChangingName="dtblCashflowRowChanging" msprop:Generator_RowEvHandlerName="dtblCashflowRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblCashflowRowDeleted" msprop:Generator_RowEvArgName="dtblCashflowRowChangeEvent" msprop:Generator_RowChangedName="dtblCashflowRowChanged" msprop:Generator_RowClassName="dtblCashflowRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="dgvtxtParticulars" msprop:Generator_ColumnVarNameInTable="columndgvtxtParticulars" msprop:Generator_ColumnPropNameInRow="dgvtxtParticulars" msprop:Generator_ColumnPropNameInTable="dgvtxtParticularsColumn" msprop:Generator_UserColumnName="dgvtxtParticulars" type="xs:string" minOccurs="0" />
+              <xs:element name="dgvtxtinflow" msprop:Generator_ColumnVarNameInTable="columndgvtxtinflow" msprop:Generator_ColumnPropNameInRow="dgvtxtinflow" msprop:Generator_ColumnPropNameInTable="dgvtxtinflowColumn" msprop:Generator_UserColumnName="dgvtxtinflow" type="xs:string" minOccurs="0" />
+              <xs:element name="dgvtxtParticulars1" msprop:Generator_ColumnVarNameInTable="columndgvtxtParticulars1" msprop:Generator_ColumnPropNameInRow="dgvtxtParticulars1" msprop:Generator_ColumnPropNameInTable="dgvtxtParticulars1Column" msprop:Generator_UserColumnName="dgvtxtParticulars1" type="xs:string" minOccurs="0" />
+              <xs:element name="dgvtxtoutflow" msprop:Generator_ColumnVarNameInTable="columndgvtxtoutflow" msprop:Generator_ColumnPropNameInRow="dgvtxtoutflow" msprop:Generator_ColumnPropNameInTable="dgvtxtoutflowColumn" msprop:Generator_UserColumnName="dgvtxtoutflow" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblCompany" msprop:Generator_TableClassName="dtblCompanyDataTable" msprop:Generator_TableVarName="tabledtblCompany" msprop:Generator_TablePropName="dtblCompany" msprop:Generator_RowDeletingName="dtblCompanyRowDeleting" msprop:Generator_UserTableName="dtblCompany" msprop:Generator_RowChangingName="dtblCompanyRowChanging" msprop:Generator_RowEvHandlerName="dtblCompanyRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblCompanyRowDeleted" msprop:Generator_RowEvArgName="dtblCompanyRowChangeEvent" msprop:Generator_RowChangedName="dtblCompanyRowChanged" msprop:Generator_RowClassName="dtblCompanyRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="companyName" msprop:Generator_ColumnVarNameInTable="columncompanyName" msprop:Generator_ColumnPropNameInRow="companyName" msprop:Generator_ColumnPropNameInTable="companyNameColumn" msprop:Generator_UserColumnName="companyName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone" type="xs:string" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="emailId" msprop:Generator_ColumnVarNameInTable="columnemailId" msprop:Generator_ColumnPropNameInRow="emailId" msprop:Generator_ColumnPropNameInTable="emailIdColumn" msprop:Generator_UserColumnName="emailId" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

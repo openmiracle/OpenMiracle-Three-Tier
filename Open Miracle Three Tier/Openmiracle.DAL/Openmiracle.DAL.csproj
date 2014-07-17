@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8F35B106-F82C-45DA-AE7C-D8A2C0C23C29}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OpenMiracle.DAL</RootNamespace>
+    <AssemblyName>OpenMiracle.DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Printer_Settings">
+      <HintPath>..\Open Miracle\bin\Debug\Printer_Settings.exe</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountGroupSP.cs" />
+    <Compile Include="AccountLedgerSP.cs" />
+    <Compile Include="AdditionalCostSP.cs" />
+    <Compile Include="AdvancePaymentSP.cs" />
+    <Compile Include="AreaSP.cs" />
+    <Compile Include="BackupRestore.cs" />
+    <Compile Include="BankReconciliationSP.cs" />
+    <Compile Include="BarcodeSettingsSP.cs" />
+    <Compile Include="BatchSP.cs" />
+    <Compile Include="BomSP.cs" />
+    <Compile Include="BonusDedutionSP.cs" />
+    <Compile Include="BrandSP.cs" />
+    <Compile Include="BudgetDetailsSP.cs" />
+    <Compile Include="BudgetMasterSP.cs" />
+    <Compile Include="CompanyPathSP.cs" />
+    <Compile Include="CompanySP.cs" />
+    <Compile Include="ContraDetailsSP.cs" />
+    <Compile Include="ContraMasterSP.cs" />
+    <Compile Include="CounterSP.cs" />
+    <Compile Include="CreditNoteDetailsSP.cs" />
+    <Compile Include="CreditNoteMasterSP.cs" />
+    <Compile Include="CurrencySP.cs" />
+    <Compile Include="DailyAttendanceDetailsSP.cs" />
+    <Compile Include="DailyAttendanceMasterSP.cs" />
+    <Compile Include="DailySalaryVoucherDetailsSP.cs" />
+    <Compile Include="DailySalaryVoucherMasterSP.cs" />
+    <Compile Include="DBConnection.cs" />
+    <Compile Include="DebitNoteDetailsSP.cs" />
+    <Compile Include="DebitNoteMasterSP.cs" />
+    <Compile Include="DeliveryNoteDetailsSP.cs" />
+    <Compile Include="DeliveryNoteMasterSP.cs" />
+    <Compile Include="DesignationSP.cs" />
+    <Compile Include="EmployeeSP.cs" />
+    <Compile Include="ExchangeRateSP.cs" />
+    <Compile Include="ExecuteIndex.cs" />
+    <Compile Include="FinancialStatementSP.cs" />
+    <Compile Include="FinancialYearSP.cs" />
+    <Compile Include="GodownSP.cs" />
+    <Compile Include="HolidaySP.cs" />
+    <Compile Include="JournalDetailsSP.cs" />
+    <Compile Include="JournalMasterSP.cs" />
+    <Compile Include="LedgerPostingSP.cs" />
+    <Compile Include="MasterSP.cs" />
+    <Compile Include="MaterialReceiptDetailsSP.cs" />
+    <Compile Include="MaterialReceiptMasterSP.cs" />
+    <Compile Include="ModelNoSP.cs" />
+    <Compile Include="MonthlySalaryDetailsSP.cs" />
+    <Compile Include="MonthlySalarySP.cs" />
+    <Compile Include="PartyBalanceSP.cs" />
+    <Compile Include="PayHeadSP.cs" />
+    <Compile Include="PaymentDetailsSP.cs" />
+    <Compile Include="PaymentMasterSP.cs" />
+    <Compile Include="PDCClearanceMasterSP.cs" />
+    <Compile Include="PDCPayableMasterSP.cs" />
+    <Compile Include="PDCReceivableMasterSP.cs" />
+    <Compile Include="PhysicalStockDetailsSP.cs" />
+    <Compile Include="PhysicalStockMasterSP.cs" />
+    <Compile Include="PriceListSP.cs" />
+    <Compile Include="PricingLevelSP.cs" />
+    <Compile Include="PrivilegeSP.cs" />
+    <Compile Include="ProductBatchSP.cs" />
+    <Compile Include="ProductGroupSP.cs" />
+    <Compile Include="ProductSP.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PurchaseBillTaxSP.cs" />
+    <Compile Include="PurchaseDetailsSP.cs" />
+    <Compile Include="PurchaseMasterSP.cs" />
+    <Compile Include="PurchaseOrderDetailsSP.cs" />
+    <Compile Include="PurchaseOrderMasterSP.cs" />
+    <Compile Include="PurchaseReturnBilltaxSP.cs" />
+    <Compile Include="PurchaseReturnDetailsSP.cs" />
+    <Compile Include="PurchaseReturnMasterSP.cs" />
+    <Compile Include="QuickLaunchItemsSP.cs" />
+    <Compile Include="RackSP.cs" />
+    <Compile Include="ReceiptDetailsSP.cs" />
+    <Compile Include="ReceiptMasterSP.cs" />
+    <Compile Include="RejectionInDetailsSP.cs" />
+    <Compile Include="RejectionInMasterSP.cs" />
+    <Compile Include="RejectionOutDetailsSP.cs" />
+    <Compile Include="RejectionOutMasterSP.cs" />
+    <Compile Include="ReminderSP.cs" />
+    <Compile Include="RoleSP.cs" />
+    <Compile Include="RouteSP.cs" />
+    <Compile Include="SalaryPackageDetailsSP.cs" />
+    <Compile Include="SalaryPackageSP.cs" />
+    <Compile Include="SalaryVoucherDetailsSP.cs" />
+    <Compile Include="SalaryVoucherMasterSP.cs" />
+    <Compile Include="SalesBillTaxSP.cs" />
+    <Compile Include="SalesDetailsSP.cs" />
+    <Compile Include="SalesMasterSP.cs" />
+    <Compile Include="SalesOrderDetailsSP.cs" />
+    <Compile Include="SalesOrderMasterSP.cs" />
+    <Compile Include="SalesQuotationDetailsSP.cs" />
+    <Compile Include="SalesQuotationMasterSP.cs" />
+    <Compile Include="SalesReturnBillTaxSP.cs" />
+    <Compile Include="SalesReturnDetailsSP.cs" />
+    <Compile Include="SalesReturnMasterSP.cs" />
+    <Compile Include="ServiceCategorySP.cs" />
+    <Compile Include="ServiceDetailsSP.cs" />
+    <Compile Include="ServiceMasterSP.cs" />
+    <Compile Include="ServiceSP.cs" />
+    <Compile Include="SettingsSP.cs" />
+    <Compile Include="SizeSP.cs" />
+    <Compile Include="StandardRateSP.cs" />
+    <Compile Include="StockJournalDetailsSP.cs" />
+    <Compile Include="StockJournalMasterSP.cs" />
+    <Compile Include="StockPostingSP.cs" />
+    <Compile Include="SuffixPrefixSP.cs" />
+    <Compile Include="TaxDetailsSP.cs" />
+    <Compile Include="TaxSP.cs" />
+    <Compile Include="TransactionsGeneralFillSP.cs" />
+    <Compile Include="UnitConvertionSP.cs" />
+    <Compile Include="UnitSP.cs" />
+    <Compile Include="UserSP.cs" />
+    <Compile Include="VoucherTypeSP.cs" />
+    <Compile Include="VoucherTypeTaxSP.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ENTITY\ENTITY.csproj">
+      <Project>{703712EC-5511-415F-BAED-47C121A6EC4C}</Project>
+      <Name>ENTITY</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsPriceLIstReport" targetNamespace="http://tempuri.org/dsPriceLIstReport.xsd" xmlns:mstns="http://tempuri.org/dsPriceLIstReport.xsd" xmlns="http://tempuri.org/dsPriceLIstReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsPriceLIstReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsPriceLIstReport" msprop:Generator_UserDSName="dsPriceLIstReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtblCompanyReport" msprop:Generator_TableClassName="dtblCompanyReportDataTable" msprop:Generator_TableVarName="tabledtblCompanyReport" msprop:Generator_TablePropName="dtblCompanyReport" msprop:Generator_RowDeletingName="dtblCompanyReportRowDeleting" msprop:Generator_UserTableName="dtblCompanyReport" msprop:Generator_RowChangingName="dtblCompanyReportRowChanging" msprop:Generator_RowEvHandlerName="dtblCompanyReportRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblCompanyReportRowDeleted" msprop:Generator_RowEvArgName="dtblCompanyReportRowChangeEvent" msprop:Generator_RowChangedName="dtblCompanyReportRowChanged" msprop:Generator_RowClassName="dtblCompanyReportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="companyName" msprop:Generator_ColumnVarNameInTable="columncompanyName" msprop:Generator_ColumnPropNameInRow="companyName" msprop:Generator_ColumnPropNameInTable="companyNameColumn" msprop:Generator_UserColumnName="companyName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone" type="xs:string" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="emailid" msprop:Generator_ColumnVarNameInTable="columnemailid" msprop:Generator_ColumnPropNameInRow="emailid" msprop:Generator_ColumnPropNameInTable="emailidColumn" msprop:Generator_UserColumnName="emailid" type="xs:string" minOccurs="0" />
+              <xs:element name="currencyName" msprop:Generator_ColumnVarNameInTable="columncurrencyName" msprop:Generator_ColumnPropNameInRow="currencyName" msprop:Generator_ColumnPropNameInTable="currencyNameColumn" msprop:Generator_UserColumnName="currencyName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblPriceListGridFill" msprop:Generator_TableClassName="dtblPriceListGridFillDataTable" msprop:Generator_TableVarName="tabledtblPriceListGridFill" msprop:Generator_TablePropName="dtblPriceListGridFill" msprop:Generator_RowDeletingName="dtblPriceListGridFillRowDeleting" msprop:Generator_UserTableName="dtblPriceListGridFill" msprop:Generator_RowChangingName="dtblPriceListGridFillRowChanging" msprop:Generator_RowEvHandlerName="dtblPriceListGridFillRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblPriceListGridFillRowDeleted" msprop:Generator_RowEvArgName="dtblPriceListGridFillRowChangeEvent" msprop:Generator_RowChangedName="dtblPriceListGridFillRowChanged" msprop:Generator_RowClassName="dtblPriceListGridFillRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SlNo" msprop:Generator_ColumnVarNameInTable="columnSlNo" msprop:Generator_ColumnPropNameInRow="SlNo" msprop:Generator_ColumnPropNameInTable="SlNoColumn" msprop:Generator_UserColumnName="SlNo" type="xs:short" minOccurs="0" />
+              <xs:element name="Product_x0020_Code" msprop:Generator_ColumnVarNameInTable="columnProduct_Code" msprop:Generator_ColumnPropNameInRow="Product_Code" msprop:Generator_ColumnPropNameInTable="Product_CodeColumn" msprop:Generator_UserColumnName="Product Code" type="xs:string" minOccurs="0" />
+              <xs:element name="Product_x0020_Name" msprop:Generator_ColumnVarNameInTable="columnProduct_Name" msprop:Generator_ColumnPropNameInRow="Product_Name" msprop:Generator_ColumnPropNameInTable="Product_NameColumn" msprop:Generator_UserColumnName="Product Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Unit_x0020_Name" msprop:Generator_ColumnVarNameInTable="columnUnit_Name" msprop:Generator_ColumnPropNameInRow="Unit_Name" msprop:Generator_ColumnPropNameInTable="Unit_NameColumn" msprop:Generator_UserColumnName="Unit Name" type="xs:string" minOccurs="0" />
+              <xs:element name="Purchase_x0020_Rate" msprop:Generator_ColumnVarNameInTable="columnPurchase_Rate" msprop:Generator_ColumnPropNameInRow="Purchase_Rate" msprop:Generator_ColumnPropNameInTable="Purchase_RateColumn" msprop:Generator_UserColumnName="Purchase Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Sales_x0020_Rate" msprop:Generator_ColumnVarNameInTable="columnSales_Rate" msprop:Generator_ColumnPropNameInRow="Sales_Rate" msprop:Generator_ColumnPropNameInTable="Sales_RateColumn" msprop:Generator_UserColumnName="Sales Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="Last_x0020_SalesRate" msprop:Generator_ColumnVarNameInTable="columnLast_SalesRate" msprop:Generator_ColumnPropNameInRow="Last_SalesRate" msprop:Generator_ColumnPropNameInTable="Last_SalesRateColumn" msprop:Generator_UserColumnName="Last SalesRate" type="xs:string" minOccurs="0" />
+              <xs:element name="Standard_x0020_Rate" msprop:Generator_ColumnVarNameInTable="columnStandard_Rate" msprop:Generator_ColumnPropNameInRow="Standard_Rate" msprop:Generator_ColumnPropNameInTable="Standard_RateColumn" msprop:Generator_UserColumnName="Standard Rate" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" msprop:Generator_ColumnVarNameInTable="columnMRP" msprop:Generator_ColumnPropNameInRow="MRP" msprop:Generator_ColumnPropNameInTable="MRPColumn" msprop:Generator_UserColumnName="MRP" type="xs:string" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblOptions" msprop:Generator_TableClassName="dtblOptionsDataTable" msprop:Generator_TableVarName="tabledtblOptions" msprop:Generator_TablePropName="dtblOptions" msprop:Generator_RowDeletingName="dtblOptionsRowDeleting" msprop:Generator_UserTableName="dtblOptions" msprop:Generator_RowChangingName="dtblOptionsRowChanging" msprop:Generator_RowEvHandlerName="dtblOptionsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblOptionsRowDeleted" msprop:Generator_RowEvArgName="dtblOptionsRowChangeEvent" msprop:Generator_RowChangedName="dtblOptionsRowChanged" msprop:Generator_RowClassName="dtblOptionsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PurchaseRate" msprop:Generator_ColumnVarNameInTable="columnPurchaseRate" msprop:Generator_ColumnPropNameInRow="PurchaseRate" msprop:Generator_ColumnPropNameInTable="PurchaseRateColumn" msprop:Generator_UserColumnName="PurchaseRate" type="xs:string" minOccurs="0" />
+              <xs:element name="SalesRate" msprop:Generator_ColumnVarNameInTable="columnSalesRate" msprop:Generator_ColumnPropNameInRow="SalesRate" msprop:Generator_ColumnPropNameInTable="SalesRateColumn" msprop:Generator_UserColumnName="SalesRate" type="xs:string" minOccurs="0" />
+              <xs:element name="LastSalesRate" msprop:Generator_ColumnVarNameInTable="columnLastSalesRate" msprop:Generator_ColumnPropNameInRow="LastSalesRate" msprop:Generator_ColumnPropNameInTable="LastSalesRateColumn" msprop:Generator_UserColumnName="LastSalesRate" type="xs:string" minOccurs="0" />
+              <xs:element name="StandardRate" msprop:Generator_ColumnVarNameInTable="columnStandardRate" msprop:Generator_ColumnPropNameInRow="StandardRate" msprop:Generator_ColumnPropNameInTable="StandardRateColumn" msprop:Generator_UserColumnName="StandardRate" type="xs:string" minOccurs="0" />
+              <xs:element name="MRP" msprop:Generator_ColumnVarNameInTable="columnMRP" msprop:Generator_ColumnPropNameInRow="MRP" msprop:Generator_ColumnPropNameInTable="MRPColumn" msprop:Generator_UserColumnName="MRP" type="xs:string" minOccurs="0" />
+              <xs:element name="Price" msprop:Generator_ColumnVarNameInTable="columnPrice" msprop:Generator_ColumnPropNameInRow="Price" msprop:Generator_ColumnPropNameInTable="PriceColumn" msprop:Generator_UserColumnName="Price" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsSalaryPackageDetailsReport" targetNamespace="http://tempuri.org/dsSalaryPackageDetailsReport.xsd" xmlns:mstns="http://tempuri.org/dsSalaryPackageDetailsReport.xsd" xmlns="http://tempuri.org/dsSalaryPackageDetailsReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsSalaryPackageDetailsReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsSalaryPackageDetailsReport" msprop:Generator_UserDSName="dsSalaryPackageDetailsReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtblCompany" msprop:Generator_TableClassName="dtblCompanyDataTable" msprop:Generator_TableVarName="tabledtblCompany" msprop:Generator_TablePropName="dtblCompany" msprop:Generator_RowDeletingName="dtblCompanyRowDeleting" msprop:Generator_UserTableName="dtblCompany" msprop:Generator_RowChangingName="dtblCompanyRowChanging" msprop:Generator_RowEvHandlerName="dtblCompanyRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblCompanyRowDeleted" msprop:Generator_RowEvArgName="dtblCompanyRowChangeEvent" msprop:Generator_RowChangedName="dtblCompanyRowChanged" msprop:Generator_RowClassName="dtblCompanyRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="companyName" msprop:Generator_ColumnVarNameInTable="columncompanyName" msprop:Generator_ColumnPropNameInRow="companyName" msprop:Generator_ColumnPropNameInTable="companyNameColumn" msprop:Generator_UserColumnName="companyName" type="xs:string" minOccurs="0" />
+              <xs:element name="address" msprop:Generator_ColumnVarNameInTable="columnaddress" msprop:Generator_ColumnPropNameInRow="address" msprop:Generator_ColumnPropNameInTable="addressColumn" msprop:Generator_UserColumnName="address" type="xs:string" minOccurs="0" />
+              <xs:element name="phone" msprop:Generator_ColumnVarNameInTable="columnphone" msprop:Generator_ColumnPropNameInRow="phone" msprop:Generator_ColumnPropNameInTable="phoneColumn" msprop:Generator_UserColumnName="phone" type="xs:string" minOccurs="0" />
+              <xs:element name="emailId" msprop:Generator_ColumnVarNameInTable="columnemailId" msprop:Generator_ColumnPropNameInRow="emailId" msprop:Generator_ColumnPropNameInTable="emailIdColumn" msprop:Generator_UserColumnName="emailId" type="xs:string" minOccurs="0" />
+              <xs:element name="logo" msprop:Generator_ColumnVarNameInTable="columnlogo" msprop:Generator_ColumnPropNameInRow="logo" msprop:Generator_ColumnPropNameInTable="logoColumn" msprop:Generator_UserColumnName="logo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblSalaryPackageDetails" msprop:Generator_TableClassName="dtblSalaryPackageDetailsDataTable" msprop:Generator_TableVarName="tabledtblSalaryPackageDetails" msprop:Generator_TablePropName="dtblSalaryPackageDetails" msprop:Generator_RowDeletingName="dtblSalaryPackageDetailsRowDeleting" msprop:Generator_UserTableName="dtblSalaryPackageDetails" msprop:Generator_RowChangingName="dtblSalaryPackageDetailsRowChanging" msprop:Generator_RowEvHandlerName="dtblSalaryPackageDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblSalaryPackageDetailsRowDeleted" msprop:Generator_RowEvArgName="dtblSalaryPackageDetailsRowChangeEvent" msprop:Generator_RowChangedName="dtblSalaryPackageDetailsRowChanged" msprop:Generator_RowClassName="dtblSalaryPackageDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="payHeadName" msprop:Generator_ColumnVarNameInTable="columnpayHeadName" msprop:Generator_ColumnPropNameInRow="payHeadName" msprop:Generator_ColumnPropNameInTable="payHeadNameColumn" msprop:Generator_UserColumnName="payHeadName" type="xs:string" minOccurs="0" />
+              <xs:element name="type" msprop:Generator_ColumnVarNameInTable="columntype" msprop:Generator_ColumnPropNameInRow="type" msprop:Generator_ColumnPropNameInTable="typeColumn" msprop:Generator_UserColumnName="type" type="xs:string" minOccurs="0" />
+              <xs:element name="amount" msprop:Generator_ColumnVarNameInTable="columnamount" msprop:Generator_ColumnPropNameInRow="amount" msprop:Generator_ColumnPropNameInTable="amountColumn" msprop:Generator_UserColumnName="amount" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SlNo" msprop:Generator_ColumnVarNameInTable="columnSlNo" msprop:Generator_ColumnPropNameInRow="SlNo" msprop:Generator_ColumnPropNameInTable="SlNoColumn" msprop:Generator_UserColumnName="SlNo" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtblOtherDetails" msprop:Generator_TableClassName="dtblOtherDetailsDataTable" msprop:Generator_TableVarName="tabledtblOtherDetails" msprop:Generator_TablePropName="dtblOtherDetails" msprop:Generator_RowDeletingName="dtblOtherDetailsRowDeleting" msprop:Generator_UserTableName="dtblOtherDetails" msprop:Generator_RowChangingName="dtblOtherDetailsRowChanging" msprop:Generator_RowEvHandlerName="dtblOtherDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtblOtherDetailsRowDeleted" msprop:Generator_RowEvArgName="dtblOtherDetailsRowChangeEvent" msprop:Generator_RowChangedName="dtblOtherDetailsRowChanged" msprop:Generator_RowClassName="dtblOtherDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Deduction" msprop:Generator_ColumnVarNameInTable="columnDeduction" msprop:Generator_ColumnPropNameInRow="Deduction" msprop:Generator_ColumnPropNameInTable="DeductionColumn" msprop:Generator_UserColumnName="Deduction" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Addition" msprop:Generator_ColumnVarNameInTable="columnAddition" msprop:Generator_ColumnPropNameInRow="Addition" msprop:Generator_ColumnPropNameInTable="AdditionColumn" msprop:Generator_UserColumnName="Addition" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

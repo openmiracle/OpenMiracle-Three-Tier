@@ -1,0 +1,29 @@
+E:\Open Miracle Three Tier\Openmiracle.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\Openmiracle.BLL.dll
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\Openmiracle.BLL.pdb
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\ENTITY.dll
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\Openmiracle.DAL.dll
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\ENTITY.pdb
+E:\Open Miracle Three Tier\Openmiracle.BLL\bin\Debug\Openmiracle.DAL.pdb
+E:\Open Miracle Three Tier\Openmiracle.BLL\obj\Debug\Openmiracle.BLL.dll
+E:\Open Miracle Three Tier\Openmiracle.BLL\obj\Debug\Openmiracle.BLL.pdb
+D:\Open Miracle Three Tier\Openmiracle.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Open Miracle Three Tier\Openmiracle.BLL\obj\Debug\Openmiracle.BLL.dll
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.BLL.dll
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.BLL.pdb
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\ENTITY.dll
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.DAL.dll
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\ENTITY.pdb
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.DAL.pdb
+D:\Open Miracle Three Tier\OpenMiracle.BLL\obj\Debug\OpenMiracle.BLL.pdb
+D:\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\Printer_Settings.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.BLL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.BLL.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\ENTITY.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.DAL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\Printer_Settings.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\ENTITY.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\bin\Debug\OpenMiracle.DAL.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\obj\Debug\OpenMiracle.BLL.csprojResolveAssemblyReference.cache
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\obj\Debug\OpenMiracle.BLL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\OpenMiracle.BLL\obj\Debug\OpenMiracle.BLL.pdb

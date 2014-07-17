@@ -1,0 +1,650 @@
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudget.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudgetVariance.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCompanyCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.CrystalReports.frmReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBalanceSheet.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashFlow.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChartOfAccount.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFundFlow.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProfitAndLoss.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTrialBalance.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.Form1.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.formMDI.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQuickLaunch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSendMail.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmArea.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeProductTax.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCounter.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCustomer.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceList.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListPopup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBatch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRoute.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesman.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRate.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRatePopup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSupplier.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAboutUs.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgainstBillDetails.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrencyDetails.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeePopup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerDetails.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerPopup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLogin.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMessage.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductDetails.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearchPopup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSelectCompany.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePayment.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAttendance.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvanceRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeduction.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDesignation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmHolydaySettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalarySettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHead.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaySlip.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedger.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBatch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBrand.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrency.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmExchangeRate.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmGodown.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmModalNo.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMultipleProductCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPricingLevel.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductGroup.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRack.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceCategory.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServices.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSize.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSuffixPrefixSettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTax.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUnit.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherType.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmmultipleAccountLedger.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherTypeSelection.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.Properties.Resources.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCReceivableRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoiceRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoiceRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucherRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournalRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverduePurchaseOrder.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverdueSalesOrder.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPersonalReminder.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReminderPopUp.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiry.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStock.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupwiseReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedgerReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgeingReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChequeReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyAddressBook.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTaxReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVatReturnReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductStatistics.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiryReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournelReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMenuCustomization.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBillallocation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashBankBookReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDayBook.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOutstandingReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePaymentReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailyAttendanceReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeAddressBook.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlyAttendanceReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHeadReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageDetailsReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFreeSaleReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearanceRegister.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCClearanceReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCRecievableReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductVsBatchReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceReport.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherSearch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherWiseProductSearch.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodePrinting.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodeSettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeCurrentDate.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeFinancialYear.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangePassword.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmNewFinancialYear.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRole.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRolePrivilegeSettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSettings.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUserCreation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBankReconciliation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNote.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNote.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNote.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceipt.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyBalance.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearance.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcPayable.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcReceivable.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStock.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPOS.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBom.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductMultipleUnit.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoice.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrder.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturn.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionIn.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOut.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoice.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrder.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotation.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturn.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucher.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournal.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyData.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyDataPrinter.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLoading.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStoredProcedureInserter.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQueryLogin.resources
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.exe.config
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.exe.config
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudget.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudgetVariance.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCompanyCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBalanceSheet.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashFlow.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChartOfAccount.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFundFlow.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProfitAndLoss.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTrialBalance.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.formMDI.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQuickLaunch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSendMail.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmArea.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeProductTax.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCounter.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCustomer.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceList.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListPopup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBatch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRoute.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesman.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRate.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRatePopup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSupplier.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAboutUs.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgainstBillDetails.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrencyDetails.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeePopup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerDetails.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerPopup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLogin.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMessage.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductDetails.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearchPopup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSelectCompany.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePayment.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAttendance.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvanceRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeduction.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDesignation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmHolydaySettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalarySettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHead.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaySlip.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedger.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBatch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBrand.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrency.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmExchangeRate.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmGodown.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmModalNo.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMultipleProductCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPricingLevel.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductGroup.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRack.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceCategory.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServices.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSize.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSuffixPrefixSettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTax.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUnit.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherType.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmmultipleAccountLedger.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherTypeSelection.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.Properties.Resources.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCReceivableRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoiceRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoiceRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucherRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournalRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverduePurchaseOrder.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverdueSalesOrder.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPersonalReminder.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReminderPopUp.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiry.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStock.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupwiseReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedgerReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgeingReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChequeReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyAddressBook.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTaxReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVatReturnReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductStatistics.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiryReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournelReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMenuCustomization.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBillallocation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashBankBookReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDayBook.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOutstandingReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePaymentReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailyAttendanceReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeAddressBook.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlyAttendanceReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHeadReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageDetailsReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFreeSaleReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearanceRegister.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCClearanceReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCRecievableReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductVsBatchReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherSearch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherWiseProductSearch.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodePrinting.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodeSettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeCurrentDate.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeFinancialYear.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangePassword.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmNewFinancialYear.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRole.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRolePrivilegeSettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSettings.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUserCreation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBankReconciliation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNote.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNote.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNote.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceipt.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyBalance.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearance.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcPayable.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcReceivable.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStock.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPOS.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBom.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductMultipleUnit.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoice.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrder.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturn.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionIn.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOut.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoice.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrder.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotation.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturn.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucher.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournal.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyData.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyDataPrinter.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLoading.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStoredProcedureInserter.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQueryLogin.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.exe
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.pdb
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\ENTITY.dll
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.BLL.dll
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.DAL.dll
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\ENTITY.pdb
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.BLL.pdb
+D:\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.DAL.pdb
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReport.resources
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.exe
+D:\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.exe.config
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.exe
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\Open Miracle.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\ENTITY.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.BLL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.DAL.dll
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\ENTITY.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.BLL.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\bin\Debug\OpenMiracle.DAL.pdb
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.csprojResolveAssemblyReference.cache
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudget.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBudgetVariance.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCompanyCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBalanceSheet.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashFlow.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChartOfAccount.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFundFlow.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProfitAndLoss.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTrialBalance.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.formMDI.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQuickLaunch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSendMail.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmArea.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeProductTax.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCounter.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCustomer.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceList.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListPopup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBatch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRoute.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesman.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRate.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStandardRatePopup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSupplier.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAboutUs.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgainstBillDetails.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrencyDetails.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeePopup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerDetails.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLedgerPopup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLogin.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMessage.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductDetails.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearchPopup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSelectCompany.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePayment.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAttendance.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvanceRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeduction.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDesignation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmHolydaySettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalarySettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHead.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaySlip.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedger.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBatch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBrand.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCurrency.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmExchangeRate.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmGodown.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmModalNo.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMultipleProductCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPricingLevel.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductGroup.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRack.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceCategory.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServices.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSize.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSuffixPrefixSettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTax.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUnit.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherType.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmmultipleAccountLedger.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherTypeSelection.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.Properties.Resources.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCReceivableRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoiceRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoiceRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucherRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournalRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverduePurchaseOrder.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOverdueSalesOrder.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPersonalReminder.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReminderPopUp.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiry.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStock.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountGroupwiseReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAccountLedgerReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAgeingReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChequeReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyAddressBook.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmTaxReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVatReturnReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPriceListReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductStatistics.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmShortExpiryReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturnReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionInReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOutReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrderReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotationReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturnReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournelReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMenuCustomization.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBillallocation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCashBankBookReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDayBook.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmOutstandingReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmAdvancePaymentReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBonusDeductionReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailyAttendanceReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDailySalaryReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeAddressBook.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmEmployeeReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlyAttendanceReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMonthlySalaryReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPayHeadReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageDetailsReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalaryPackageReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNoteReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNoteReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNoteReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmFreeSaleReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceiptReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearanceRegister.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCClearanceReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCPayableReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPDCRecievableReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStockReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductVsBatchReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrderReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceReport.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductSearch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherSearch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmVoucherWiseProductSearch.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodePrinting.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBarcodeSettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeCurrentDate.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangeFinancialYear.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmChangePassword.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmNewFinancialYear.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRole.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRolePrivilegeSettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSettings.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmUserCreation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmBankReconciliation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmContraVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCreditNote.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDebitNote.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmDeliveryNote.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmJournalVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmMaterialReceipt.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPartyBalance.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPaymentVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcClearance.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcPayable.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPdcReceivable.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPhysicalStock.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPOS.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductBom.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmProductMultipleUnit.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseInvoice.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseOrder.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmPurchaseReturn.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmReceiptVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionIn.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmRejectionOut.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesInvoice.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesOrder.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesQuotation.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmSalesReturn.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmServiceVoucher.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStockJournal.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyData.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmCopyDataPrinter.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmLoading.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmStoredProcedureInserter.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open_Miracle.frmQueryLogin.resources
+J:\Documents\OM Three Tier To Release\Open Miracle Three Tier\Open Miracle\obj\x86\Debug\Open Miracle.csproj.GenerateResource.Cache
